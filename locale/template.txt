@@ -111,6 +111,7 @@ Show Icons=
 Show Description=
 #checkbox label
 Show Itemnames=
+Settings=
 
 The name of the player who placed this order.@nDouble-click your own orders to cancel them.=
 

@@ -110,6 +110,7 @@ Show Icons=Mostrar iconos
 Show Description=
 #checkbox label
 Show Itemnames=Mostrar nombres de artículos
+Settings=
 
 The name of the player who placed this order.@nDouble-click your own orders to cancel them.=Nombre del jugador que ha colocado esta orden.@nDoble click para cancelar tu propia orden.
 
